@@ -1,0 +1,6 @@
+appsettings.Development.json
+appsettings.json
+payload.lua
+bin/
+obj/
+.vscode/
